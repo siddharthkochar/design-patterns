@@ -1,4 +1,3 @@
-
 namespace StructuralPatternTests
 {
     using StructuralPatterns.Adapter;
