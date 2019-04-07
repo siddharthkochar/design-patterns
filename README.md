@@ -8,3 +8,4 @@ Design pattern real world samples
 
 ### Behavioral Patterns
 - Strategy Pattern
+- Template Method Pattern
